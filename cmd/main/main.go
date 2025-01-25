@@ -8,7 +8,6 @@ import (
 	"github.com/gorilla/mux"
 )
 
-const s string = "constant"
 
 func main() {
 
